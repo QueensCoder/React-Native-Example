@@ -1,6 +1,7 @@
-This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
+App.js shows basic map configuration. Note that the .gitignore and app-env are not included in this repo. 
 
-Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
+
+(https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
 
 ## Table of Contents
 
